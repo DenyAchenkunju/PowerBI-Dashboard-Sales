@@ -52,8 +52,7 @@ Using Power BI Desktop to:
 •	Importing Excel models
 
 
-
-     Step 2 : Creating a Relational Data Model
+    Step 2 : Creating a Relational Data Model
 
 •	Database normalization
 
@@ -77,7 +76,7 @@ Using Power BI Desktop to:
 
 •	Hierarchies
 
-- Step 3 : Adding Calculated Fields with DAX.
+    Step 3 : Adding Calculated Fields with DAX.
 
 •	Calculated columns & measures
 
